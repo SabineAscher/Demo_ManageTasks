@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Task Master</string>
+    <string name="manageTaskActivity_title">Title</string>
+    <string name="manageTaskActivity_dueDate">Due Date</string>
+    <string name="manageTaskActivity_priority">Priority</string>
+    <string name="manageTaskActivity_save">save</string>
+    <string name="manageTaskActivity_default_title">KEIN TITEL</string>
+    <string name="manageTaskActivity_hint_title">Please enter a titel</string>
+
+
+    <string-array name="priority">
+        <item>high</item>
+        <item>medium</item>
+        <item>low</item>
+
+    </string-array>
+</resources>
